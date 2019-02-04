@@ -8,17 +8,17 @@ router.post('/djezzy', async (req, res, next) => {
   await djezzy.save();
   res.send(req.body);
 });
-//get all
+//get all 
 router.get('/djezzy',async (req,res,next)=>{
   const djezzy = await DjezzyModel.find({})
-  res.send({djezzy})
-})  
+  res.send({djezzy})    
+})    
 //get one
 router.get('/djezzy/:id',async(req,res,next)=>{
   const djezzy = await DjezzyModel.findById(req.params.id)
-  res.send({djezzy})
-})
-//update
+  res.send({djezzy}) 
+})    
+//update 
 router.put('/djezzy/:id', async (req, res, next) => {
   let { id } = req.params;
   await DjezzyModel.update({_id: id},req.body);

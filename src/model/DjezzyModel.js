@@ -2,7 +2,7 @@ var GeoJSON = require('mongoose-geojson-schema');
 const mongoose = require('mongoose');
 const Schema = mongoose.Schema;
 
-const TaskDjezzy = Schema({
+const TaskDjezzy = Schema({  
 
     type: String,
     properties: {
