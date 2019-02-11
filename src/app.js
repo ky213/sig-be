@@ -1,3 +1,5 @@
+const fileToDb = require("./methode/fileToDb");
+
 const path = require("path");
 const express = require("express");
 const mongoose = require("mongoose");
@@ -8,12 +10,12 @@ const app = express();
 
 // connection to db
 mongoose
-  .connect("mongodb://localhost/sig-eadn")
+  .connect("mongodb://localhost:27017/sig-eadn")
   .then(db => console.log("db connected"))
   .catch(err => console.log(err));
 
-app.use(cors({ origin: "http://41.111.133.106:8080" }));
-
+//app.use(cors({ origin: "http://localhost:8080" }));
+app.use(cors());
 // importing routes
 const RestDjezzyRoutes = require("./routes/RestDjezzy");
 const RestAlgeriePoste = require("./routes/RestAlgeriePoste");
@@ -38,3 +40,5 @@ app.use("/", RestLFO);
 app.listen(app.get("port"), () => {
   console.log(`server on port ${app.get("port")}`);
 });
+
+fileToDb();
