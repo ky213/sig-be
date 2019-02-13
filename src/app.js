@@ -8,11 +8,11 @@ const app = express();
 
 // connection to db
 mongoose
-  .connect("mongodb://localhost/sig-eadn")
+  .connect("mongodb://db:27017/sig-eadn")
   .then(db => console.log("db connected"))
   .catch(err => console.log(err));
 
-app.use(cors({ origin: "http://41.111.133.106:8080" }));
+app.use(cors());
 
 // importing routes
 const RestDjezzyRoutes = require("./routes/RestDjezzy");
