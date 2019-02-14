@@ -10,7 +10,6 @@ const app = express();
 
 // connection to db
 mongoose
-<<<<<<< HEAD
   .connect("mongodb://localhost:27017/sig-eadn")
   .then(db => console.log("db connected"))
   .catch(err => console.log(err));
