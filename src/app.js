@@ -17,8 +17,6 @@ mongoose
 
 app.use(cors());
 
-
-
 // importing routes
 const RestDjezzyRoutes = require("./routes/RestDjezzy");
 const RestAlgeriePoste = require("./routes/RestAlgeriePoste");
