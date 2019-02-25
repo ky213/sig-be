@@ -1,3 +1,5 @@
+const fileToDb = require("./methode/fileToDb");
+
 const path = require("path");
 const express = require("express");
 const mongoose = require("mongoose");
@@ -8,11 +10,14 @@ const app = express();
 
 // connection to db
 mongoose
+
   .connect("mongodb://db:27017/sig-eadn")
   .then(db => console.log("db connected"))
   .catch(err => console.log(err));
 
 app.use(cors());
+
+
 
 // importing routes
 const RestDjezzyRoutes = require("./routes/RestDjezzy");
@@ -38,3 +43,5 @@ app.use("/", RestLFO);
 app.listen(app.get("port"), () => {
   console.log(`server on port ${app.get("port")}`);
 });
+
+fileToDb();
