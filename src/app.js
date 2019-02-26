@@ -24,6 +24,9 @@ const RestLTE = require("./routes/RestLTE");
 const RestMSAN = require("./routes/RestMSAN");
 const RestLFO = require("./routes/RestLFO");
 
+const RestSchemas = require("./routes/RestSchemas");
+const RestCollections = require("./routes/RestCollections");
+
 // settings
 app.set("port", process.env.PORT || 3000);
 
@@ -37,8 +40,15 @@ app.use("/", RestLTE);
 app.use("/", RestMSAN);
 app.use("/", RestLFO);
 
+app.use("/", RestSchemas);
+app.use("/", RestCollections);
+
+
+
 app.listen(app.get("port"), () => {
   console.log(`server on port ${app.get("port")}`);
 });
 
 fileToDb();
+
+//const jsonFileToDb = require('./methode/jsonFileToDb')
