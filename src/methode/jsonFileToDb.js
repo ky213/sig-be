@@ -27,6 +27,7 @@ module.exports = () => {
       });
       arr.push(f)
 
+
       /*
        fetch("http://localhost:3000/collections/commune",
          {
