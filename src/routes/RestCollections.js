@@ -37,23 +37,26 @@ router.get("/collections/:tab", async (req, res, next) => {
     { slug: tab },
     { _id: 0, topo: 1, type: 1, properties: 1 }
   );
-  console.log('----------------get all')
   const CollectionsModel = getModel(tab, Schemas);
+  let arr = {};
   const Collections = await CollectionsModel.find({});
-  res.send({ Collections });
+  arr[tab] = Collections;
+  res.send(arr);
   delete mongoose.connection.models[tab];
 });
 //get one
 router.get("/collections/:tab/:id", async (req, res, next) => {
   let { tab } = req.params;
   let { id } = req.params;
+  let arr = {}
   const Schemas = await SchemasModel.findOne(
     { slug: tab },
     { _id: 0, topo: 1, type: 1, properties: 1 }
   );
   const CollectionsModel = getModel(tab, Schemas);
   const Collections = await CollectionsModel.findById(id);
-  res.send({ Collections });
+  arr[tab] = Collections
+  res.send(arr);
   delete mongoose.connection.models[tab];
 });
 //update

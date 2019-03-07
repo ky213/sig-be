@@ -1,4 +1,5 @@
 const fileToDb = require("./methode/fileToDb");
+const fileToDb_inOne = require("./methode/fileToDb_inOne");
 
 const path = require("path");
 const express = require("express");
@@ -49,6 +50,8 @@ app.listen(app.get("port"), () => {
   console.log(`server on port ${app.get("port")}`);
 });
 
-fileToDb();
+//fileToDb();
+//fileToDb_inOne();
 
-//const jsonFileToDb = require('./methode/jsonFileToDb')
+const csvFileToDb = require('./methode/csvFileToDb');
+//csvFileToDb();

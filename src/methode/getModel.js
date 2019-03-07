@@ -6,27 +6,25 @@ const Schema = mongoose.Schema;
 module.exports = (tab, schem) => {
 
   const schemParse = JSON.parse(JSON.stringify(schem));
-  ({ topo, ...clons } = schemParse)
-  console.log('clons-----------------', clons)
-
+  ({ topo, ...colons } = schemParse);
   switch (topo) {
     case 'Point':
-      clons.geometry = mongoose.Schema.Types.Point;
+      colons.geometry = mongoose.Schema.Types.Point;
       break;
     case 'LineString':
-      clons.geometry = mongoose.Schema.Types.LineString;
+      colons.geometry = mongoose.Schema.Types.LineString;
       break;
     case 'Polygon':
-      clons.geometry = mongoose.Schema.Types.Polygon;
+      colons.geometry = mongoose.Schema.Types.Polygon;
       break;
     case 'MultiPolygon':
-      clons.geometry = mongoose.Schema.Types.MultiPolygon;
+      colons.st_asgeojson = mongoose.Schema.Types.MultiPolygon;
       break;
     default:
-      clons.geometry = mongoose.Schema.Types.Geometry;
+      colons.geometry = mongoose.Schema.Types.Geometry;
       break;
   }
 
-  const TaskMSANModel = Schema(clons);
+  const TaskMSANModel = Schema(colons);
   return mongoose.model(tab, TaskMSANModel);
 };
