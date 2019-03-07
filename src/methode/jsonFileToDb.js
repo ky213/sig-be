@@ -11,6 +11,7 @@ module.exports = () => {
     //console.log(v.data);
     //"id";"code_commune";"commune";"daira";"wilaya";"st_asgeojson"
 
+
     let arr = new Array()
     v.data.forEach(row => {
       let obj = JSON.parse(row.st_asgeojson);
