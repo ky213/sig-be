@@ -12,7 +12,6 @@ router.post("/msan", async (req, res, next) => {
 router.get("/msan", async (req, res, next) => {
   const msan = await MSANModel.find({});
   res.send({ msan });
-  console.log('-------msan')
 });
 //get one 
 router.get("/msan/:id", async (req, res, next) => {

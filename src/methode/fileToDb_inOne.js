@@ -1,23 +1,10 @@
+const cerateSchema = require("../methode/createSchema");
 const SchemasModel = require("../model/SchemasModel");
 const mongoose = require("mongoose");
 const getModel = require("../methode/getModel");
 
-
-const algeriePosteGeojson = require("../data/algeriePoste");
-const djezzyGeojson = require("../data/djezzy");
-const fibreObtiqueGeojson = require("../data/fibreObtique");
-const reseau4GLteGeojson = require("../data/reseau4GLte");
-const MSANGeojson = require("../data/MSAN");
-const ooredooGeojson = require("../data/ooredoo");
-
 const data = require('../data')
-
-const AlgeriePosteModel = require("../model/AlgeriePosteModel");
-const DjezzyModel = require("../model/DjezzyModel");
-const LFOModel = require("../model/LFOModel");
-const LTEModel = require("../model/LTEModel");
-const MSANModel = require("../model/MSANModel");
-const OoredooModel = require("../model/OoredooModel");
+const schemat = require('../data/schemat')
 
 /*
 module.exports = async () => {
@@ -32,6 +19,12 @@ module.exports = async () => {
 module.exports = () => {
   let tabSchemat = ["ap", "msan", "lfo", "lte", "djezzy", "ooredoo"];
   tabSchemat.forEach(async tab => {
+    const Schemassearch = await SchemasModel.findOne({ name: tab }).count();
+    if (Schemassearch == 0) {
+      const cerateSchemaBody = cerateSchema(schemat[tab]);
+      const Schemas = new SchemasModel(cerateSchemaBody);
+      await Schemas.save();
+    }
     const Schemas = await SchemasModel.findOne(
       { slug: tab },
       { _id: 0, topo: 1, type: 1, properties: 1, geometry: 1 }

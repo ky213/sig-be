@@ -23,7 +23,6 @@ router.get("/schemas", async (req, res, next) => {
   try {
     const Schemas = await SchemasModel.find({});
     res.send({ Schemas });
-    res.send({ error })
   } catch (error) {
     res.status('500').send({ error: error.message })
   }
