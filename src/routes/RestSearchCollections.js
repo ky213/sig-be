@@ -15,15 +15,12 @@ router.post("/searches/:tab", async (req, res, next) => {
     const CollectionsModel = getModel(tab, Schemas);
     let arr = {};
     // console.log('----------------------****-', req.body);
-
     // const Collections = await CollectionsModel.find({ "properties.codeCommune": "3801", "properties.capacite": "528" }).count();
     // const Collections = await CollectionsModel.find({}).where('properties.Population').limit(24247).count();
     // const Collections = await CollectionsModel.find(req.body);
-    let query1 = 'this.properties.Population > 24245 && this.properties.Population < 24249'
     // const Collections = await CollectionsModel.find({}).$where(query1);
-
+    let query1 = 'this.properties.Population > 24245 && this.properties.Population < 24249'
     let operatorRoot = req.body[0], tabOp = req.body[1]
-
     let query = '1==1 && ';
     let wer = {}
     for (ele of tabOp) {
