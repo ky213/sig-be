@@ -6,7 +6,7 @@ const AlgeriePosteModel = require("../model/AlgeriePosteModel");
 router.post("/algerieposte", async (req, res, next) => {
   const algerieposte = new AlgeriePosteModel(req.body);
   await algerieposte.save();
-  res.send(req.body);
+  res.send(algerieposte);
 });
 //get all
 router.get("/algerieposte", async (req, res, next) => {
