@@ -18,13 +18,12 @@ module.exports = (tab, schem) => {
       colons.geometry = mongoose.Schema.Types.Polygon;
       break;
     case 'MultiPolygon':
-      colons.st_asgeojson = mongoose.Schema.Types.MultiPolygon;
+      colons.geometry = mongoose.Schema.Types.Polygon;
       break;
     default:
       colons.geometry = mongoose.Schema.Types.Geometry;
       break;
   }
-
   const TaskMSANModel = Schema(colons);
   return mongoose.model(tab, TaskMSANModel);
 };

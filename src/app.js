@@ -27,6 +27,7 @@ const RestLFO = require("./routes/RestLFO");
 
 const RestSchemas = require("./routes/RestSchemas");
 const RestCollections = require("./routes/RestCollections");
+const RestSearchCollections = require("./routes/RestSearchCollections");
 
 // settings
 app.set("port", process.env.PORT || 3000);
@@ -43,6 +44,7 @@ app.use("/", RestLFO);
 
 app.use("/", RestSchemas);
 app.use("/", RestCollections);
+app.use("/", RestSearchCollections);
 
 
 
@@ -54,4 +56,4 @@ app.listen(app.get("port"), () => {
 //fileToDb_inOne();
 
 const csvFileToDb = require('./methode/csvFileToDb');
-//csvFileToDb();
+// csvFileToDb();
