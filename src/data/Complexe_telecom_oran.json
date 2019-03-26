@@ -1,0 +1,45 @@
+{
+    "type": "FeatureCollection",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "EPSG:4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "id": 1,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.6018664059999423,
+                    35.70319555400005
+                ]
+            },
+            "properties": {
+                "OBJECTID": 1,
+                "name": "Complexe Télécom Ibn Rochd",
+                "type": "CA2, CMRT, CMRE, CEL, CTN/CTI (IP)",
+                "codeCommune" : ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 2,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.6398098289999439,
+                    35.704289525000036
+                ]
+            },
+            "properties": {
+                "OBJECTID": 2,
+                "name": "Complexe Télécom Haddadine ",
+                "type": "CA1, CGIR, RMS, LET",
+                "codeCommune" : ""
+            }
+        }
+    ]
+}

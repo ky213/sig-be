@@ -1,0 +1,203 @@
+{
+    "type": "FeatureCollection",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "EPSG:4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "id": 1,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.6073070989999678,
+                    35.62259417000007
+                ]
+            },
+            "properties": {
+                "name": null,
+                "Adresse": null,
+                "Capacite": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 2,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.7707789339999636,
+                    35.75056878100003
+                ]
+            },
+            "properties": {
+                "name": null,
+                "Adresse": null,
+                "Capacite": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 3,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.5781893909999667,
+                    35.734323464000056
+                ]
+            },
+            "properties": {
+                "name": null,
+                "Adresse": null,
+                "Capacite": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 4,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.4239428679999264,
+                    35.785841110000035
+                ]
+            },
+            "properties": {
+                "name": null,
+                "Adresse": null,
+                "Capacite": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 5,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.2726800529999309,
+                    35.80390849300005
+                ]
+            },
+            "properties": {
+                "name": null,
+                "Adresse": null,
+                "Capacite": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 6,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.6249051669999517,
+                    35.65194988500008
+                ]
+            },
+            "properties": {
+                "name": null,
+                "Adresse": null,
+                "Capacite": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 7,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.6389833949999684,
+                    35.67498526900005
+                ]
+            },
+            "properties": {
+                "name": null,
+                "Adresse": null,
+                "Capacite": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 8,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.31594874899997194,
+                    35.85199221800008
+                ]
+            },
+            "properties": {
+                "name": null,
+                "Adresse": null,
+                "Capacite": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 9,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.6352480889999583,
+                    35.705171945000075
+                ]
+            },
+            "properties": {
+                "name": null,
+                "Adresse": null,
+                "Capacite": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 10,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.6407973759999663,
+                    35.69880192900007
+                ]
+            },
+            "properties": {
+                "name": null,
+                "Adresse": null,
+                "Capacite": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 11,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.6583226509999349,
+                    35.686800195000046
+                ]
+            },
+            "properties": {
+                "name": null,
+                "Adresse": null,
+                "Capacite": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 13,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.5991720539999505,
+                    35.700309093000044
+                ]
+            },
+            "properties": {
+                "name": "Direction régionnale Djezzy",
+                "Adresse": null,
+                "Capacite": null
+            }
+        }
+    ]
+}

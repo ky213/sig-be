@@ -3,6 +3,7 @@ const SchemasModel = require("../model/SchemasModel");
 const mongoose = require("mongoose");
 const getModel = require("../methode/getModel");
 
+
 const data = require('../data')
 const schemat = require('../data/schemat')
 
@@ -10,17 +11,15 @@ const schemat = require('../data/schemat')
 module.exports = async () => {
   const count = await MSANModel.count( count => {
     count;
-  });
+  });  
 */
 
-
-
-
 module.exports = () => {
-  let tabSchemat = ["ap", "msan", "lfo", "lte", "djezzy", "ooredoo"];
+  let tabSchemat = ["ap", "msan", "lfo", "lte", "djezzy", "ooredoo", "actel", "agence_djezzy", "agence_mobilis", "agence_ooredoo", "mobilis", "ats", "dw_pttn", "station_atterissement",];
   tabSchemat.forEach(async tab => {
     const Schemassearch = await SchemasModel.findOne({ name: tab }).count();
     if (Schemassearch == 0) {
+      console.log('----------------------tab-------->', tab);
       const cerateSchemaBody = cerateSchema(schemat[tab]);
       const Schemas = new SchemasModel(cerateSchemaBody);
       await Schemas.save();
@@ -31,7 +30,10 @@ module.exports = () => {
     );
     const CollectionsModel = getModel(tab, Schemas);
     CollectionsModel.count((err, count) => {
-      if (count == 0) CollectionsModel.insertMany(data[tab].features);
+      for (tabJson of data[tab]) {
+        CollectionsModel.insertMany(tabJson.features);
+        console.log('----------------------ele-------->', tab);
+      }
     });
     delete mongoose.connection.models[tab];
   });

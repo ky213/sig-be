@@ -25,11 +25,12 @@ router.post("/searches/:tab", async (req, res, next) => {
     let wer = {}
     for (ele of tabOp) {
       if (ele.operator == "like") {
-        wer['properties.' + ele.field] = { $regex: '.*' + ele.value }
+        wer[`properties.${ele.field}`] = { $regex: `.*${ele.value}` }
       }
       else
-        query = query + 'this.properties.' + ele.field + ' ' + ele.operator + ' ' + ele.value + ' ' + operatorRoot.operatorRoot + ' '
+        query = query + `this.properties.${ele.field} ${ele.operator} ${ele.value} ${operatorRoot.operatorRoot} `
     }
+    var a = 'mot'
     var lastIndex = query.lastIndexOf(" ");
     query = query.substring(0, lastIndex - 3);
     const Collections = await CollectionsModel.find(wer).$where(query);

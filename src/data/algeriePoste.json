@@ -1,0 +1,3131 @@
+{
+    "type": "FeatureCollection",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "EPSG:4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "id": 1,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.645697618999975,
+                    35.70299079000006
+                ]
+            },
+            "properties": {
+                        "name": "",
+        "classe": "",
+        "Population": "",
+        "densitePostal": "",
+        "NombreGuichetsExistant": "",
+        "NombreGuichetsTenus": "",
+        "NombreVisuTotal": "",
+        "NombreVisuFrontOffice": "",
+        "NombreGAB": "",
+        "adresse": "",
+        "description": "",
+        "codeCommune": "",
+        "image": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 2,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.6338671029999432,
+                    35.69500412600007
+                ]
+            },
+            "properties": {
+                        "name": "",
+        "classe": "",
+        "Population": "",
+        "densitePostal": "",
+        "NombreGuichetsExistant": "",
+        "NombreGuichetsTenus": "",
+        "NombreVisuTotal": "",
+        "NombreVisuFrontOffice": "",
+        "NombreGAB": "",
+        "adresse": "",
+        "description": "",
+        "codeCommune": "",
+        "image": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 3,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.6513546929999734,
+                    35.69446271100003
+                ]
+            },
+            "properties": {
+                        "name": "",
+        "classe": "",
+        "Population": "",
+        "densitePostal": "",
+        "NombreGuichetsExistant": "",
+        "NombreGuichetsTenus": "",
+        "NombreVisuTotal": "",
+        "NombreVisuFrontOffice": "",
+        "NombreGAB": "",
+        "adresse": "",
+        "description": "",
+        "codeCommune": "",
+        "image": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 4,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.5683248649999655,
+                    35.72826383000006
+                ]
+            },
+            "properties": {
+                        "name": "",
+        "classe": "",
+        "Population": "",
+        "densitePostal": "",
+        "NombreGuichetsExistant": "",
+        "NombreGuichetsTenus": "",
+        "NombreVisuTotal": "",
+        "NombreVisuFrontOffice": "",
+        "NombreGAB": "",
+        "adresse": "",
+        "description": "",
+        "codeCommune": "",
+        "image": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 5,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.32762055599994255,
+                    35.848768868000036
+                ]
+            },
+            "properties": {
+                        "name": "",
+        "classe": "",
+        "Population": "",
+        "densitePostal": "",
+        "NombreGuichetsExistant": "",
+        "NombreGuichetsTenus": "",
+        "NombreVisuTotal": "",
+        "NombreVisuFrontOffice": "",
+        "NombreGAB": "",
+        "adresse": "",
+        "description": "",
+        "codeCommune": "",
+        "image": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 6,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.6231856699999412,
+                    35.64843375700008
+                ]
+            },
+            "properties": {
+                        "name": "",
+        "classe": "",
+        "Population": "",
+        "densitePostal": "",
+        "NombreGuichetsExistant": "",
+        "NombreGuichetsTenus": "",
+        "NombreVisuTotal": "",
+        "NombreVisuFrontOffice": "",
+        "NombreGAB": "",
+        "adresse": "",
+        "description": "",
+        "codeCommune": "",
+        "image": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 7,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.6345750969999244,
+                    35.66448421200005
+                ]
+            },
+            "properties": {
+                        "name": "",
+        "classe": "",
+        "Population": "",
+        "densitePostal": "",
+        "NombreGuichetsExistant": "",
+        "NombreGuichetsTenus": "",
+        "NombreVisuTotal": "",
+        "NombreVisuFrontOffice": "",
+        "NombreGAB": "",
+        "adresse": "",
+        "description": "",
+        "codeCommune": "",
+        "image": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 8,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.3118021149999777,
+                    35.85490736500003
+                ]
+            },
+            "properties": {
+                        "name": "",
+        "classe": "",
+        "Population": "",
+        "densitePostal": "",
+        "NombreGuichetsExistant": "",
+        "NombreGuichetsTenus": "",
+        "NombreVisuTotal": "",
+        "NombreVisuFrontOffice": "",
+        "NombreGAB": "",
+        "adresse": "",
+        "description": "",
+        "codeCommune": "",
+        "image": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 9,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.5855614569999261,
+                    35.702315931000044
+                ]
+            },
+            "properties": {
+                        "name": "",
+        "classe": "",
+        "Population": "",
+        "densitePostal": "",
+        "NombreGuichetsExistant": "",
+        "NombreGuichetsTenus": "",
+        "NombreVisuTotal": "",
+        "NombreVisuFrontOffice": "",
+        "NombreGAB": "",
+        "adresse": "",
+        "description": "",
+        "codeCommune": "",
+        "image": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 10,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.6161661469999444,
+                    35.697448966000024
+                ]
+            },
+            "properties": {
+                        "name": "",
+        "classe": "",
+        "Population": "",
+        "densitePostal": "",
+        "NombreGuichetsExistant": "",
+        "NombreGuichetsTenus": "",
+        "NombreVisuTotal": "",
+        "NombreVisuFrontOffice": "",
+        "NombreGAB": "",
+        "adresse": "",
+        "description": "",
+        "codeCommune": "",
+        "image": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 11,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.6348885049999353,
+                    35.70386514900008
+                ]
+            },
+            "properties": {
+                        "name": "",
+        "classe": "",
+        "Population": "",
+        "densitePostal": "",
+        "NombreGuichetsExistant": "",
+        "NombreGuichetsTenus": "",
+        "NombreVisuTotal": "",
+        "NombreVisuFrontOffice": "",
+        "NombreGAB": "",
+        "adresse": "",
+        "description": "",
+        "codeCommune": "",
+        "image": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 12,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.6624125609999396,
+                    35.68875609600008
+                ]
+            },
+            "properties": {
+                        "name": "",
+        "classe": "",
+        "Population": "",
+        "densitePostal": "",
+        "NombreGuichetsExistant": "",
+        "NombreGuichetsTenus": "",
+        "NombreVisuTotal": "",
+        "NombreVisuFrontOffice": "",
+        "NombreGAB": "",
+        "adresse": "",
+        "description": "",
+        "codeCommune": "",
+        "image": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 13,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.6618712679999703,
+                    35.67949162900004
+                ]
+            },
+            "properties": {
+                        "name": "",
+        "classe": "",
+        "Population": "",
+        "densitePostal": "",
+        "NombreGuichetsExistant": "",
+        "NombreGuichetsTenus": "",
+        "NombreVisuTotal": "",
+        "NombreVisuFrontOffice": "",
+        "NombreGAB": "",
+        "adresse": "",
+        "description": "",
+        "codeCommune": "",
+        "image": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 14,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.6510805289999553,
+                    35.68380099900003
+                ]
+            },
+            "properties": {
+                        "name": "",
+        "classe": "",
+        "Population": "",
+        "densitePostal": "",
+        "NombreGuichetsExistant": "",
+        "NombreGuichetsTenus": "",
+        "NombreVisuTotal": "",
+        "NombreVisuFrontOffice": "",
+        "NombreGAB": "",
+        "adresse": "",
+        "description": "",
+        "codeCommune": "",
+        "image": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 15,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.6176586289999477,
+                    35.70705046100005
+                ]
+            },
+            "properties": {
+                        "name": "",
+        "classe": "",
+        "Population": "",
+        "densitePostal": "",
+        "NombreGuichetsExistant": "",
+        "NombreGuichetsTenus": "",
+        "NombreVisuTotal": "",
+        "NombreVisuFrontOffice": "",
+        "NombreGAB": "",
+        "adresse": "",
+        "description": "",
+        "codeCommune": "",
+        "image": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 16,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.5673857259999409,
+                    35.69495273200005
+                ]
+            },
+            "properties": {
+                        "name": "",
+        "classe": "",
+        "Population": "",
+        "densitePostal": "",
+        "NombreGuichetsExistant": "",
+        "NombreGuichetsTenus": "",
+        "NombreVisuTotal": "",
+        "NombreVisuFrontOffice": "",
+        "NombreGAB": "",
+        "adresse": "",
+        "description": "",
+        "codeCommune": "",
+        "image": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 17,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.7714256309999428,
+                    35.74715401900005
+                ]
+            },
+            "properties": {
+                        "name": "",
+        "classe": "",
+        "Population": "",
+        "densitePostal": "",
+        "NombreGuichetsExistant": "",
+        "NombreGuichetsTenus": "",
+        "NombreVisuTotal": "",
+        "NombreVisuFrontOffice": "",
+        "NombreGAB": "",
+        "adresse": "",
+        "description": "",
+        "codeCommune": "",
+        "image": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 18,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.2714699969999401,
+                    35.80711288200007
+                ]
+            },
+            "properties": {
+                        "name": "",
+        "classe": "",
+        "Population": "",
+        "densitePostal": "",
+        "NombreGuichetsExistant": "",
+        "NombreGuichetsTenus": "",
+        "NombreVisuTotal": "",
+        "NombreVisuFrontOffice": "",
+        "NombreGAB": "",
+        "adresse": "",
+        "description": "",
+        "codeCommune": "",
+        "image": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 19,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.8989213139999492,
+                    35.57304485900005
+                ]
+            },
+            "properties": {
+                        "name": "",
+        "classe": "",
+        "Population": "",
+        "densitePostal": "",
+        "NombreGuichetsExistant": "",
+        "NombreGuichetsTenus": "",
+        "NombreVisuTotal": "",
+        "NombreVisuFrontOffice": "",
+        "NombreGAB": "",
+        "adresse": "",
+        "description": "",
+        "codeCommune": "",
+        "image": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 20,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.42615998899992746,
+                    35.78498104000005
+                ]
+            },
+            "properties": {
+                        "name": "",
+        "classe": "",
+        "Population": "",
+        "densitePostal": "",
+        "NombreGuichetsExistant": "",
+        "NombreGuichetsTenus": "",
+        "NombreVisuTotal": "",
+        "NombreVisuFrontOffice": "",
+        "NombreGAB": "",
+        "adresse": "",
+        "description": "",
+        "codeCommune": "",
+        "image": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 21,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.43399184599996943,
+                    35.77945424300003
+                ]
+            },
+            "properties": {
+                        "name": "",
+        "classe": "",
+        "Population": "",
+        "densitePostal": "",
+        "NombreGuichetsExistant": "",
+        "NombreGuichetsTenus": "",
+        "NombreVisuTotal": "",
+        "NombreVisuFrontOffice": "",
+        "NombreGAB": "",
+        "adresse": "",
+        "description": "",
+        "codeCommune": "",
+        "image": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 22,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.7079511089999642,
+                    35.730000880000034
+                ]
+            },
+            "properties": {
+                        "name": "",
+        "classe": "",
+        "Population": "",
+        "densitePostal": "",
+        "NombreGuichetsExistant": "",
+        "NombreGuichetsTenus": "",
+        "NombreVisuTotal": "",
+        "NombreVisuFrontOffice": "",
+        "NombreGAB": "",
+        "adresse": "",
+        "description": "",
+        "codeCommune": "",
+        "image": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 23,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.6523887739999736,
+                    35.703820456000074
+                ]
+            },
+            "properties": {
+                        "name": "",
+        "classe": "",
+        "Population": "",
+        "densitePostal": "",
+        "NombreGuichetsExistant": "",
+        "NombreGuichetsTenus": "",
+        "NombreVisuTotal": "",
+        "NombreVisuFrontOffice": "",
+        "NombreGAB": "",
+        "adresse": "",
+        "description": "",
+        "codeCommune": "",
+        "image": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 24,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.640315745999942,
+                    35.698795380000035
+                ]
+            },
+            "properties": {
+                        "name": "",
+        "classe": "",
+        "Population": "",
+        "densitePostal": "",
+        "NombreGuichetsExistant": "",
+        "NombreGuichetsTenus": "",
+        "NombreVisuTotal": "",
+        "NombreVisuFrontOffice": "",
+        "NombreGAB": "",
+        "adresse": "",
+        "description": "",
+        "codeCommune": "",
+        "image": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 25,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.7460896499999308,
+                    35.73789818900008
+                ]
+            },
+            "properties": {
+                        "name": "",
+        "classe": "",
+        "Population": "",
+        "densitePostal": "",
+        "NombreGuichetsExistant": "",
+        "NombreGuichetsTenus": "",
+        "NombreVisuTotal": "",
+        "NombreVisuFrontOffice": "",
+        "NombreGAB": "",
+        "adresse": "",
+        "description": "",
+        "codeCommune": "",
+        "image": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 26,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.5689659019999453,
+                    35.71953691600004
+                ]
+            },
+            "properties": {
+                        "name": "",
+        "classe": "",
+        "Population": "",
+        "densitePostal": "",
+        "NombreGuichetsExistant": "",
+        "NombreGuichetsTenus": "",
+        "NombreVisuTotal": "",
+        "NombreVisuFrontOffice": "",
+        "NombreGAB": "",
+        "adresse": "",
+        "description": "",
+        "codeCommune": "",
+        "image": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 27,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.41151394599995683,
+                    35.68043345500007
+                ]
+            },
+            "properties": {
+                        "name": "",
+        "classe": "",
+        "Population": "",
+        "densitePostal": "",
+        "NombreGuichetsExistant": "",
+        "NombreGuichetsTenus": "",
+        "NombreVisuTotal": "",
+        "NombreVisuFrontOffice": "",
+        "NombreGAB": "",
+        "adresse": "",
+        "description": "",
+        "codeCommune": "",
+        "image": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 28,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.811873263999928,
+                    35.702128680000044
+                ]
+            },
+            "properties": {
+                        "name": "",
+        "classe": "",
+        "Population": "",
+        "densitePostal": "",
+        "NombreGuichetsExistant": "",
+        "NombreGuichetsTenus": "",
+        "NombreVisuTotal": "",
+        "NombreVisuFrontOffice": "",
+        "NombreGAB": "",
+        "adresse": "",
+        "description": "",
+        "codeCommune": "",
+        "image": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 29,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.577256044999956,
+                    35.61159621300004
+                ]
+            },
+            "properties": {
+                        "name": "",
+        "classe": "",
+        "Population": "",
+        "densitePostal": "",
+        "NombreGuichetsExistant": "",
+        "NombreGuichetsTenus": "",
+        "NombreVisuTotal": "",
+        "NombreVisuFrontOffice": "",
+        "NombreGAB": "",
+        "adresse": "",
+        "description": "",
+        "codeCommune": "",
+        "image": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 30,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.4442867249999267,
+                    35.71181658800003
+                ]
+            },
+            "properties": {
+                        "name": "",
+        "classe": "",
+        "Population": "",
+        "densitePostal": "",
+        "NombreGuichetsExistant": "",
+        "NombreGuichetsTenus": "",
+        "NombreVisuTotal": "",
+        "NombreVisuFrontOffice": "",
+        "NombreGAB": "",
+        "adresse": "",
+        "description": "",
+        "codeCommune": "",
+        "image": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 31,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.503179730999932,
+                    35.69036756700007
+                ]
+            },
+            "properties": {
+                        "name": "",
+        "classe": "",
+        "Population": "",
+        "densitePostal": "",
+        "NombreGuichetsExistant": "",
+        "NombreGuichetsTenus": "",
+        "NombreVisuTotal": "",
+        "NombreVisuFrontOffice": "",
+        "NombreGAB": "",
+        "adresse": "",
+        "description": "",
+        "codeCommune": "",
+        "image": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 32,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.4929889289999778,
+                    35.69288028400007
+                ]
+            },
+            "properties": {
+                        "name": "",
+        "classe": "",
+        "Population": "",
+        "densitePostal": "",
+        "NombreGuichetsExistant": "",
+        "NombreGuichetsTenus": "",
+        "NombreVisuTotal": "",
+        "NombreVisuFrontOffice": "",
+        "NombreGAB": "",
+        "adresse": "",
+        "description": "",
+        "codeCommune": "",
+        "image": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 33,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.3265959859999725,
+                    35.85961987400003
+                ]
+            },
+            "properties": {
+                        "name": "",
+        "classe": "",
+        "Population": "",
+        "densitePostal": "",
+        "NombreGuichetsExistant": "",
+        "NombreGuichetsTenus": "",
+        "NombreVisuTotal": "",
+        "NombreVisuFrontOffice": "",
+        "NombreGAB": "",
+        "adresse": "",
+        "description": "",
+        "codeCommune": "",
+        "image": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 34,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.7377098969999452,
+                    35.61518771800007
+                ]
+            },
+            "properties": {
+                        "name": "",
+        "classe": "",
+        "Population": "",
+        "densitePostal": "",
+        "NombreGuichetsExistant": "",
+        "NombreGuichetsTenus": "",
+        "NombreVisuTotal": "",
+        "NombreVisuFrontOffice": "",
+        "NombreGAB": "",
+        "adresse": "",
+        "description": "",
+        "codeCommune": "",
+        "image": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 35,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.6558144819999256,
+                    35.692680892000055
+                ]
+            },
+            "properties": {
+                        "name": "",
+        "classe": "",
+        "Population": "",
+        "densitePostal": "",
+        "NombreGuichetsExistant": "",
+        "NombreGuichetsTenus": "",
+        "NombreVisuTotal": "",
+        "NombreVisuFrontOffice": "",
+        "NombreGAB": "",
+        "adresse": "",
+        "description": "",
+        "codeCommune": "",
+        "image": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 36,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.6798233549999395,
+                    35.67667847400003
+                ]
+            },
+            "properties": {
+                        "name": "",
+        "classe": "",
+        "Population": "",
+        "densitePostal": "",
+        "NombreGuichetsExistant": "",
+        "NombreGuichetsTenus": "",
+        "NombreVisuTotal": "",
+        "NombreVisuFrontOffice": "",
+        "NombreGAB": "",
+        "adresse": "",
+        "description": "",
+        "codeCommune": "",
+        "image": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 37,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.6381852639999579,
+                    35.68912803000006
+                ]
+            },
+            "properties": {
+                        "name": "",
+        "classe": "",
+        "Population": "",
+        "densitePostal": "",
+        "NombreGuichetsExistant": "",
+        "NombreGuichetsTenus": "",
+        "NombreVisuTotal": "",
+        "NombreVisuFrontOffice": "",
+        "NombreGAB": "",
+        "adresse": "",
+        "description": "",
+        "codeCommune": "",
+        "image": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 38,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.652432466999926,
+                    35.70742746900004
+                ]
+            },
+            "properties": {
+                        "name": "",
+        "classe": "",
+        "Population": "",
+        "densitePostal": "",
+        "NombreGuichetsExistant": "",
+        "NombreGuichetsTenus": "",
+        "NombreVisuTotal": "",
+        "NombreVisuFrontOffice": "",
+        "NombreGAB": "",
+        "adresse": "",
+        "description": "",
+        "codeCommune": "",
+        "image": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 39,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.6290246339999612,
+                    35.702992134000056
+                ]
+            },
+            "properties": {
+                        "name": "",
+        "classe": "",
+        "Population": "",
+        "densitePostal": "",
+        "NombreGuichetsExistant": "",
+        "NombreGuichetsTenus": "",
+        "NombreVisuTotal": "",
+        "NombreVisuFrontOffice": "",
+        "NombreGAB": "",
+        "adresse": "",
+        "description": "",
+        "codeCommune": "",
+        "image": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 40,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.6992862009999499,
+                    35.66078548000007
+                ]
+            },
+            "properties": {
+                        "name": "",
+        "classe": "",
+        "Population": "",
+        "densitePostal": "",
+        "NombreGuichetsExistant": "",
+        "NombreGuichetsTenus": "",
+        "NombreVisuTotal": "",
+        "NombreVisuFrontOffice": "",
+        "NombreGAB": "",
+        "adresse": "",
+        "description": "",
+        "codeCommune": "",
+        "image": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 41,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.4488286809999522,
+                    35.55151373700005
+                ]
+            },
+            "properties": {
+                        "name": "",
+        "classe": "",
+        "Population": "",
+        "densitePostal": "",
+        "NombreGuichetsExistant": "",
+        "NombreGuichetsTenus": "",
+        "NombreVisuTotal": "",
+        "NombreVisuFrontOffice": "",
+        "NombreGAB": "",
+        "adresse": "",
+        "description": "",
+        "codeCommune": "",
+        "image": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 42,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.5233391819999724,
+                    35.65605170900005
+                ]
+            },
+            "properties": {
+                        "name": "",
+        "classe": "",
+        "Population": "",
+        "densitePostal": "",
+        "NombreGuichetsExistant": "",
+        "NombreGuichetsTenus": "",
+        "NombreVisuTotal": "",
+        "NombreVisuFrontOffice": "",
+        "NombreGAB": "",
+        "adresse": "",
+        "description": "",
+        "codeCommune": "",
+        "image": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 43,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.5650603689999798,
+                    35.70643970400005
+                ]
+            },
+            "properties": {
+                        "name": "",
+        "classe": "",
+        "Population": "",
+        "densitePostal": "",
+        "NombreGuichetsExistant": "",
+        "NombreGuichetsTenus": "",
+        "NombreVisuTotal": "",
+        "NombreVisuFrontOffice": "",
+        "NombreGAB": "",
+        "adresse": "",
+        "description": "",
+        "codeCommune": "",
+        "image": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 44,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.5349270219999767,
+                    35.74269708500003
+                ]
+            },
+            "properties": {
+                        "name": "",
+        "classe": "",
+        "Population": "",
+        "densitePostal": "",
+        "NombreGuichetsExistant": "",
+        "NombreGuichetsTenus": "",
+        "NombreVisuTotal": "",
+        "NombreVisuFrontOffice": "",
+        "NombreGAB": "",
+        "adresse": "",
+        "description": "",
+        "codeCommune": "",
+        "image": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 45,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.6681395219999331,
+                    35.63925213500005
+                ]
+            },
+            "properties": {
+                        "name": "",
+        "classe": "",
+        "Population": "",
+        "densitePostal": "",
+        "NombreGuichetsExistant": "",
+        "NombreGuichetsTenus": "",
+        "NombreVisuTotal": "",
+        "NombreVisuFrontOffice": "",
+        "NombreGAB": "",
+        "adresse": "",
+        "description": "",
+        "codeCommune": "",
+        "image": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 46,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.5928051889999324,
+                    35.721452860000056
+                ]
+            },
+            "properties": {
+                        "name": "",
+        "classe": "",
+        "Population": "",
+        "densitePostal": "",
+        "NombreGuichetsExistant": "",
+        "NombreGuichetsTenus": "",
+        "NombreVisuTotal": "",
+        "NombreVisuFrontOffice": "",
+        "NombreGAB": "",
+        "adresse": "",
+        "description": "",
+        "codeCommune": "",
+        "image": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 47,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.2868283849999784,
+                    35.81314220100006
+                ]
+            },
+            "properties": {
+                        "name": "",
+        "classe": "",
+        "Population": "",
+        "densitePostal": "",
+        "NombreGuichetsExistant": "",
+        "NombreGuichetsTenus": "",
+        "NombreVisuTotal": "",
+        "NombreVisuFrontOffice": "",
+        "NombreGAB": "",
+        "adresse": "",
+        "description": "",
+        "codeCommune": "",
+        "image": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 48,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.3265960439999276,
+                    35.859614313000066
+                ]
+            },
+            "properties": {
+                        "name": "",
+        "classe": "",
+        "Population": "",
+        "densitePostal": "",
+        "NombreGuichetsExistant": "",
+        "NombreGuichetsTenus": "",
+        "NombreVisuTotal": "",
+        "NombreVisuFrontOffice": "",
+        "NombreGAB": "",
+        "adresse": "",
+        "description": "",
+        "codeCommune": "",
+        "image": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 49,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.5368464299999687,
+                    35.715145506000056
+                ]
+            },
+            "properties": {
+                        "name": "",
+        "classe": "",
+        "Population": "",
+        "densitePostal": "",
+        "NombreGuichetsExistant": "",
+        "NombreGuichetsTenus": "",
+        "NombreVisuTotal": "",
+        "NombreVisuFrontOffice": "",
+        "NombreGAB": "",
+        "adresse": "",
+        "description": "",
+        "codeCommune": "",
+        "image": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 50,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.6475867609999568,
+                    35.64673870200005
+                ]
+            },
+            "properties": {
+                        "name": "",
+        "classe": "",
+        "Population": "",
+        "densitePostal": "",
+        "NombreGuichetsExistant": "",
+        "NombreGuichetsTenus": "",
+        "NombreVisuTotal": "",
+        "NombreVisuFrontOffice": "",
+        "NombreGAB": "",
+        "adresse": "",
+        "description": "",
+        "codeCommune": "",
+        "image": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 51,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.8680971499999259,
+                    35.687307651000026
+                ]
+            },
+            "properties": {
+                        "name": "",
+        "classe": "",
+        "Population": "",
+        "densitePostal": "",
+        "NombreGuichetsExistant": "",
+        "NombreGuichetsTenus": "",
+        "NombreVisuTotal": "",
+        "NombreVisuFrontOffice": "",
+        "NombreGAB": "",
+        "adresse": "",
+        "description": "",
+        "codeCommune": "",
+        "image": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 52,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.35785461099993654,
+                    35.821155135000026
+                ]
+            },
+            "properties": {
+                        "name": "",
+        "classe": "",
+        "Population": "",
+        "densitePostal": "",
+        "NombreGuichetsExistant": "",
+        "NombreGuichetsTenus": "",
+        "NombreVisuTotal": "",
+        "NombreVisuFrontOffice": "",
+        "NombreGAB": "",
+        "adresse": "",
+        "description": "",
+        "codeCommune": "",
+        "image": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 53,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.5717081499999495,
+                    35.74504095200007
+                ]
+            },
+            "properties": {
+                        "name": "",
+        "classe": "",
+        "Population": "",
+        "densitePostal": "",
+        "NombreGuichetsExistant": "",
+        "NombreGuichetsTenus": "",
+        "NombreVisuTotal": "",
+        "NombreVisuFrontOffice": "",
+        "NombreGAB": "",
+        "adresse": "",
+        "description": "",
+        "codeCommune": "",
+        "image": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 54,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.5229275039999379,
+                    35.701996837000024
+                ]
+            },
+            "properties": {
+                        "name": "",
+        "classe": "",
+        "Population": "",
+        "densitePostal": "",
+        "NombreGuichetsExistant": "",
+        "NombreGuichetsTenus": "",
+        "NombreVisuTotal": "",
+        "NombreVisuFrontOffice": "",
+        "NombreGAB": "",
+        "adresse": "",
+        "description": "",
+        "codeCommune": "",
+        "image": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 55,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.581010823999975,
+                    35.72953867200005
+                ]
+            },
+            "properties": {
+                        "name": "",
+        "classe": "",
+        "Population": "",
+        "densitePostal": "",
+        "NombreGuichetsExistant": "",
+        "NombreGuichetsTenus": "",
+        "NombreVisuTotal": "",
+        "NombreVisuFrontOffice": "",
+        "NombreGAB": "",
+        "adresse": "",
+        "description": "",
+        "codeCommune": "",
+        "image": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 56,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.4737631379999243,
+                    35.70437174500006
+                ]
+            },
+            "properties": {
+                        "name": "",
+        "classe": "",
+        "Population": "",
+        "densitePostal": "",
+        "NombreGuichetsExistant": "",
+        "NombreGuichetsTenus": "",
+        "NombreVisuTotal": "",
+        "NombreVisuFrontOffice": "",
+        "NombreGAB": "",
+        "adresse": "",
+        "description": "",
+        "codeCommune": "",
+        "image": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 57,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.46655554699992763,
+                    35.72553403100005
+                ]
+            },
+            "properties": {
+                        "name": "",
+        "classe": "",
+        "Population": "",
+        "densitePostal": "",
+        "NombreGuichetsExistant": "",
+        "NombreGuichetsTenus": "",
+        "NombreVisuTotal": "",
+        "NombreVisuFrontOffice": "",
+        "NombreGAB": "",
+        "adresse": "",
+        "description": "",
+        "codeCommune": "",
+        "image": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 58,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.37725362199995516,
+                    35.80128412500005
+                ]
+            },
+            "properties": {
+                        "name": "",
+        "classe": "",
+        "Population": "",
+        "densitePostal": "",
+        "NombreGuichetsExistant": "",
+        "NombreGuichetsTenus": "",
+        "NombreVisuTotal": "",
+        "NombreVisuFrontOffice": "",
+        "NombreGAB": "",
+        "adresse": "",
+        "description": "",
+        "codeCommune": "",
+        "image": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 59,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.48433159899997236,
+                    35.822020354000074
+                ]
+            },
+            "properties": {
+                        "name": "",
+        "classe": "",
+        "Population": "",
+        "densitePostal": "",
+        "NombreGuichetsExistant": "",
+        "NombreGuichetsTenus": "",
+        "NombreVisuTotal": "",
+        "NombreVisuFrontOffice": "",
+        "NombreGAB": "",
+        "adresse": "",
+        "description": "",
+        "codeCommune": "",
+        "image": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 60,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.9033965409999496,
+                    35.58402509700005
+                ]
+            },
+            "properties": {
+                        "name": "",
+        "classe": "",
+        "Population": "",
+        "densitePostal": "",
+        "NombreGuichetsExistant": "",
+        "NombreGuichetsTenus": "",
+        "NombreVisuTotal": "",
+        "NombreVisuFrontOffice": "",
+        "NombreGAB": "",
+        "adresse": "",
+        "description": "",
+        "codeCommune": "",
+        "image": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 61,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.596762225999953,
+                    35.71751855300005
+                ]
+            },
+            "properties": {
+                        "name": "",
+        "classe": "",
+        "Population": "",
+        "densitePostal": "",
+        "NombreGuichetsExistant": "",
+        "NombreGuichetsTenus": "",
+        "NombreVisuTotal": "",
+        "NombreVisuFrontOffice": "",
+        "NombreGAB": "",
+        "adresse": "",
+        "description": "",
+        "codeCommune": "",
+        "image": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 62,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.6092330289999381,
+                    35.68922741500006
+                ]
+            },
+            "properties": {
+                        "name": "",
+        "classe": "",
+        "Population": "",
+        "densitePostal": "",
+        "NombreGuichetsExistant": "",
+        "NombreGuichetsTenus": "",
+        "NombreVisuTotal": "",
+        "NombreVisuFrontOffice": "",
+        "NombreGAB": "",
+        "adresse": "",
+        "description": "",
+        "codeCommune": "",
+        "image": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 63,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.6002367179999624,
+                    35.70499252500008
+                ]
+            },
+            "properties": {
+                        "name": "",
+        "classe": "",
+        "Population": "",
+        "densitePostal": "",
+        "NombreGuichetsExistant": "",
+        "NombreGuichetsTenus": "",
+        "NombreVisuTotal": "",
+        "NombreVisuFrontOffice": "",
+        "NombreGAB": "",
+        "adresse": "",
+        "description": "",
+        "codeCommune": "",
+        "image": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 64,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.6579273019999619,
+                    35.67057433400004
+                ]
+            },
+            "properties": {
+                        "name": "",
+        "classe": "",
+        "Population": "",
+        "densitePostal": "",
+        "NombreGuichetsExistant": "",
+        "NombreGuichetsTenus": "",
+        "NombreVisuTotal": "",
+        "NombreVisuFrontOffice": "",
+        "NombreGAB": "",
+        "adresse": "",
+        "description": "",
+        "codeCommune": "",
+        "image": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 65,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.3949559629999726,
+                    35.82972349500005
+                ]
+            },
+            "properties": {
+                        "name": "",
+        "classe": "",
+        "Population": "",
+        "densitePostal": "",
+        "NombreGuichetsExistant": "",
+        "NombreGuichetsTenus": "",
+        "NombreVisuTotal": "",
+        "NombreVisuFrontOffice": "",
+        "NombreGAB": "",
+        "adresse": "",
+        "description": "",
+        "codeCommune": "",
+        "image": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 66,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.5724640509999404,
+                    35.67015755800003
+                ]
+            },
+            "properties": {
+                        "name": "",
+        "classe": "",
+        "Population": "",
+        "densitePostal": "",
+        "NombreGuichetsExistant": "",
+        "NombreGuichetsTenus": "",
+        "NombreVisuTotal": "",
+        "NombreVisuFrontOffice": "",
+        "NombreGAB": "",
+        "adresse": "",
+        "description": "",
+        "codeCommune": "",
+        "image": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 67,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.7213813339999433,
+                    35.62288463300007
+                ]
+            },
+            "properties": {
+                        "name": "",
+        "classe": "",
+        "Population": "",
+        "densitePostal": "",
+        "NombreGuichetsExistant": "",
+        "NombreGuichetsTenus": "",
+        "NombreVisuTotal": "",
+        "NombreVisuFrontOffice": "",
+        "NombreGAB": "",
+        "adresse": "",
+        "description": "",
+        "codeCommune": "",
+        "image": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 68,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.6267129919999661,
+                    35.635598548000075
+                ]
+            },
+            "properties": {
+                        "name": "",
+        "classe": "",
+        "Population": "",
+        "densitePostal": "",
+        "NombreGuichetsExistant": "",
+        "NombreGuichetsTenus": "",
+        "NombreVisuTotal": "",
+        "NombreVisuFrontOffice": "",
+        "NombreGAB": "",
+        "adresse": "",
+        "description": "",
+        "codeCommune": "",
+        "image": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 69,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.0181427999999642,
+                    35.59986700300004
+                ]
+            },
+            "properties": {
+                        "name": "",
+        "classe": "",
+        "Population": "",
+        "densitePostal": "",
+        "NombreGuichetsExistant": "",
+        "NombreGuichetsTenus": "",
+        "NombreVisuTotal": "",
+        "NombreVisuFrontOffice": "",
+        "NombreGAB": "",
+        "adresse": "",
+        "description": "",
+        "codeCommune": "",
+        "image": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 70,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.9764139849999651,
+                    35.648542759000065
+                ]
+            },
+            "properties": {
+                        "name": "",
+        "classe": "",
+        "Population": "",
+        "densitePostal": "",
+        "NombreGuichetsExistant": "",
+        "NombreGuichetsTenus": "",
+        "NombreVisuTotal": "",
+        "NombreVisuFrontOffice": "",
+        "NombreGAB": "",
+        "adresse": "",
+        "description": "",
+        "codeCommune": "",
+        "image": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 71,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.3327442909999263,
+                    35.784704748000024
+                ]
+            },
+            "properties": {
+                        "name": "",
+        "classe": "",
+        "Population": "",
+        "densitePostal": "",
+        "NombreGuichetsExistant": "",
+        "NombreGuichetsTenus": "",
+        "NombreVisuTotal": "",
+        "NombreVisuFrontOffice": "",
+        "NombreGAB": "",
+        "adresse": "",
+        "description": "",
+        "codeCommune": "",
+        "image": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 72,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.42020914799996945,
+                    35.69454358100006
+                ]
+            },
+            "properties": {
+                        "name": "",
+        "classe": "",
+        "Population": "",
+        "densitePostal": "",
+        "NombreGuichetsExistant": "",
+        "NombreGuichetsTenus": "",
+        "NombreVisuTotal": "",
+        "NombreVisuFrontOffice": "",
+        "NombreGAB": "",
+        "adresse": "",
+        "description": "",
+        "codeCommune": "",
+        "image": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 73,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.2831486609999274,
+                    35.77028251000007
+                ]
+            },
+            "properties": {
+                        "name": "",
+        "classe": "",
+        "Population": "",
+        "densitePostal": "",
+        "NombreGuichetsExistant": "",
+        "NombreGuichetsTenus": "",
+        "NombreVisuTotal": "",
+        "NombreVisuFrontOffice": "",
+        "NombreGAB": "",
+        "adresse": "",
+        "description": "",
+        "codeCommune": "",
+        "image": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 74,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.6859398349999424,
+                    35.71082890400004
+                ]
+            },
+            "properties": {
+                        "name": "",
+        "classe": "",
+        "Population": "",
+        "densitePostal": "",
+        "NombreGuichetsExistant": "",
+        "NombreGuichetsTenus": "",
+        "NombreVisuTotal": "",
+        "NombreVisuFrontOffice": "",
+        "NombreGAB": "",
+        "adresse": "",
+        "description": "",
+        "codeCommune": "",
+        "image": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 75,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.17245216999992863,
+                    35.741827715000056
+                ]
+            },
+            "properties": {
+                        "name": "",
+        "classe": "",
+        "Population": "",
+        "densitePostal": "",
+        "NombreGuichetsExistant": "",
+        "NombreGuichetsTenus": "",
+        "NombreVisuTotal": "",
+        "NombreVisuFrontOffice": "",
+        "NombreGAB": "",
+        "adresse": "",
+        "description": "",
+        "codeCommune": "",
+        "image": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 76,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.003718006999975,
+                    35.670096767000075
+                ]
+            },
+            "properties": {
+                        "name": "",
+        "classe": "",
+        "Population": "",
+        "densitePostal": "",
+        "NombreGuichetsExistant": "",
+        "NombreGuichetsTenus": "",
+        "NombreVisuTotal": "",
+        "NombreVisuFrontOffice": "",
+        "NombreGAB": "",
+        "adresse": "",
+        "description": "",
+        "codeCommune": "",
+        "image": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 77,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.5208302189999472,
+                    35.628071430000034
+                ]
+            },
+            "properties": {
+                        "name": "",
+        "classe": "",
+        "Population": "",
+        "densitePostal": "",
+        "NombreGuichetsExistant": "",
+        "NombreGuichetsTenus": "",
+        "NombreVisuTotal": "",
+        "NombreVisuFrontOffice": "",
+        "NombreGAB": "",
+        "adresse": "",
+        "description": "",
+        "codeCommune": "",
+        "image": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 78,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.5703317929999798,
+                    35.647489189000055
+                ]
+            },
+            "properties": {
+                        "name": "",
+        "classe": "",
+        "Population": "",
+        "densitePostal": "",
+        "NombreGuichetsExistant": "",
+        "NombreGuichetsTenus": "",
+        "NombreVisuTotal": "",
+        "NombreVisuFrontOffice": "",
+        "NombreGAB": "",
+        "adresse": "",
+        "description": "",
+        "codeCommune": "",
+        "image": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 79,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.36366730799994684,
+                    35.67973776600007
+                ]
+            },
+            "properties": {
+                        "name": "",
+        "classe": "",
+        "Population": "",
+        "densitePostal": "",
+        "NombreGuichetsExistant": "",
+        "NombreGuichetsTenus": "",
+        "NombreVisuTotal": "",
+        "NombreVisuFrontOffice": "",
+        "NombreGAB": "",
+        "adresse": "",
+        "description": "",
+        "codeCommune": "",
+        "image": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 80,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.2121219519999613,
+                    35.715752817000066
+                ]
+            },
+            "properties": {
+                        "name": "",
+        "classe": "",
+        "Population": "",
+        "densitePostal": "",
+        "NombreGuichetsExistant": "",
+        "NombreGuichetsTenus": "",
+        "NombreVisuTotal": "",
+        "NombreVisuFrontOffice": "",
+        "NombreGAB": "",
+        "adresse": "",
+        "description": "",
+        "codeCommune": "",
+        "image": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 81,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.5024755929999287,
+                    35.55134391900003
+                ]
+            },
+            "properties": {
+                        "name": "",
+        "classe": "",
+        "Population": "",
+        "densitePostal": "",
+        "NombreGuichetsExistant": "",
+        "NombreGuichetsTenus": "",
+        "NombreVisuTotal": "",
+        "NombreVisuFrontOffice": "",
+        "NombreGAB": "",
+        "adresse": "",
+        "description": "",
+        "codeCommune": "",
+        "image": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 82,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.5404670679999413,
+                    35.68678084900006
+                ]
+            },
+            "properties": {
+                        "name": "",
+        "classe": "",
+        "Population": "",
+        "densitePostal": "",
+        "NombreGuichetsExistant": "",
+        "NombreGuichetsTenus": "",
+        "NombreVisuTotal": "",
+        "NombreVisuFrontOffice": "",
+        "NombreGAB": "",
+        "adresse": "",
+        "description": "",
+        "codeCommune": "",
+        "image": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 83,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.5268796299999394,
+                    35.48736202200007
+                ]
+            },
+            "properties": {
+                        "name": "",
+        "classe": "",
+        "Population": "",
+        "densitePostal": "",
+        "NombreGuichetsExistant": "",
+        "NombreGuichetsTenus": "",
+        "NombreVisuTotal": "",
+        "NombreVisuFrontOffice": "",
+        "NombreGAB": "",
+        "adresse": "",
+        "description": "",
+        "codeCommune": "",
+        "image": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 84,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.34026503799992724,
+                    35.89655232500007
+                ]
+            },
+            "properties": {
+                        "name": "",
+        "classe": "",
+        "Population": "",
+        "densitePostal": "",
+        "NombreGuichetsExistant": "",
+        "NombreGuichetsTenus": "",
+        "NombreVisuTotal": "",
+        "NombreVisuFrontOffice": "",
+        "NombreGAB": "",
+        "adresse": "",
+        "description": "",
+        "codeCommune": "",
+        "image": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 85,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.23751277799993886,
+                    35.756652503000055
+                ]
+            },
+            "properties": {
+                        "name": "",
+        "classe": "",
+        "Population": "",
+        "densitePostal": "",
+        "NombreGuichetsExistant": "",
+        "NombreGuichetsTenus": "",
+        "NombreVisuTotal": "",
+        "NombreVisuFrontOffice": "",
+        "NombreGAB": "",
+        "adresse": "",
+        "description": "",
+        "codeCommune": "",
+        "image": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 86,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.7799467349999532,
+                    35.718070999000076
+                ]
+            },
+            "properties": {
+                        "name": "",
+        "classe": "",
+        "Population": "",
+        "densitePostal": "",
+        "NombreGuichetsExistant": "",
+        "NombreGuichetsTenus": "",
+        "NombreVisuTotal": "",
+        "NombreVisuFrontOffice": "",
+        "NombreGAB": "",
+        "adresse": "",
+        "description": "",
+        "codeCommune": "",
+        "image": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 87,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.15710203699995873,
+                    35.76280762500005
+                ]
+            },
+            "properties": {
+                        "name": "",
+        "classe": "",
+        "Population": "",
+        "densitePostal": "",
+        "NombreGuichetsExistant": "",
+        "NombreGuichetsTenus": "",
+        "NombreVisuTotal": "",
+        "NombreVisuFrontOffice": "",
+        "NombreGAB": "",
+        "adresse": "",
+        "description": "",
+        "codeCommune": "",
+        "image": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 88,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.4932313619999604,
+                    35.50453706500008
+                ]
+            },
+            "properties": {
+                        "name": "",
+        "classe": "",
+        "Population": "",
+        "densitePostal": "",
+        "NombreGuichetsExistant": "",
+        "NombreGuichetsTenus": "",
+        "NombreVisuTotal": "",
+        "NombreVisuFrontOffice": "",
+        "NombreGAB": "",
+        "adresse": "",
+        "description": "",
+        "codeCommune": "",
+        "image": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 89,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.34430969999993977,
+                    35.72917969900004
+                ]
+            },
+            "properties": {
+                        "name": "",
+        "classe": "",
+        "Population": "",
+        "densitePostal": "",
+        "NombreGuichetsExistant": "",
+        "NombreGuichetsTenus": "",
+        "NombreVisuTotal": "",
+        "NombreVisuFrontOffice": "",
+        "NombreGAB": "",
+        "adresse": "",
+        "description": "",
+        "codeCommune": "",
+        "image": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 90,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.7537415199999487,
+                    35.62434343700005
+                ]
+            },
+            "properties": {
+                        "name": "",
+        "classe": "",
+        "Population": "",
+        "densitePostal": "",
+        "NombreGuichetsExistant": "",
+        "NombreGuichetsTenus": "",
+        "NombreVisuTotal": "",
+        "NombreVisuFrontOffice": "",
+        "NombreGAB": "",
+        "adresse": "",
+        "description": "",
+        "codeCommune": "",
+        "image": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 91,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.25519499899996845,
+                    35.78951299300007
+                ]
+            },
+            "properties": {
+                        "name": "",
+        "classe": "",
+        "Population": "",
+        "densitePostal": "",
+        "NombreGuichetsExistant": "",
+        "NombreGuichetsTenus": "",
+        "NombreVisuTotal": "",
+        "NombreVisuFrontOffice": "",
+        "NombreGAB": "",
+        "adresse": "",
+        "description": "",
+        "codeCommune": "",
+        "image": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 92,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.8108316029999401,
+                    35.58732582700003
+                ]
+            },
+            "properties": {
+                        "name": "",
+        "classe": "",
+        "Population": "",
+        "densitePostal": "",
+        "NombreGuichetsExistant": "",
+        "NombreGuichetsTenus": "",
+        "NombreVisuTotal": "",
+        "NombreVisuFrontOffice": "",
+        "NombreGAB": "",
+        "adresse": "",
+        "description": "",
+        "codeCommune": "",
+        "image": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 93,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.17959466099995325,
+                    35.78925942600006
+                ]
+            },
+            "properties": {
+                        "name": "",
+        "classe": "",
+        "Population": "",
+        "densitePostal": "",
+        "NombreGuichetsExistant": "",
+        "NombreGuichetsTenus": "",
+        "NombreVisuTotal": "",
+        "NombreVisuFrontOffice": "",
+        "NombreGAB": "",
+        "adresse": "",
+        "description": "",
+        "codeCommune": "",
+        "image": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 94,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.61676317499996,
+                    35.68554154700007
+                ]
+            },
+            "properties": {
+                        "name": "",
+        "classe": "",
+        "Population": "",
+        "densitePostal": "",
+        "NombreGuichetsExistant": "",
+        "NombreGuichetsTenus": "",
+        "NombreVisuTotal": "",
+        "NombreVisuFrontOffice": "",
+        "NombreGAB": "",
+        "adresse": "",
+        "description": "",
+        "codeCommune": "",
+        "image": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 95,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.6014594619999798,
+                    35.684169463000046
+                ]
+            },
+            "properties": {
+                        "name": "",
+        "classe": "",
+        "Population": "",
+        "densitePostal": "",
+        "NombreGuichetsExistant": "",
+        "NombreGuichetsTenus": "",
+        "NombreVisuTotal": "",
+        "NombreVisuFrontOffice": "",
+        "NombreGAB": "",
+        "adresse": "",
+        "description": "",
+        "codeCommune": "",
+        "image": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 96,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.5647803669999689,
+                    35.43140621600003
+                ]
+            },
+            "properties": {
+                        "name": "",
+        "classe": "",
+        "Population": "",
+        "densitePostal": "",
+        "NombreGuichetsExistant": "",
+        "NombreGuichetsTenus": "",
+        "NombreVisuTotal": "",
+        "NombreVisuFrontOffice": "",
+        "NombreGAB": "",
+        "adresse": "",
+        "description": "",
+        "codeCommune": "",
+        "image": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 97,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.446168155999942,
+                    35.55806540000003
+                ]
+            },
+            "properties": {
+                        "name": "",
+        "classe": "",
+        "Population": "",
+        "densitePostal": "",
+        "NombreGuichetsExistant": "",
+        "NombreGuichetsTenus": "",
+        "NombreVisuTotal": "",
+        "NombreVisuFrontOffice": "",
+        "NombreGAB": "",
+        "adresse": "",
+        "description": "",
+        "codeCommune": "",
+        "image": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 98,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.43868060999994896,
+                    35.554528197000025
+                ]
+            },
+            "properties": {
+                        "name": "",
+        "classe": "",
+        "Population": "",
+        "densitePostal": "",
+        "NombreGuichetsExistant": "",
+        "NombreGuichetsTenus": "",
+        "NombreVisuTotal": "",
+        "NombreVisuFrontOffice": "",
+        "NombreGAB": "",
+        "adresse": "",
+        "description": "",
+        "codeCommune": "",
+        "image": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 99,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.5783440609999388,
+                    35.69809986900003
+                ]
+            },
+            "properties": {
+                        "name": "",
+        "classe": "",
+        "Population": "",
+        "densitePostal": "",
+        "NombreGuichetsExistant": "",
+        "NombreGuichetsTenus": "",
+        "NombreVisuTotal": "",
+        "NombreVisuFrontOffice": "",
+        "NombreGAB": "",
+        "adresse": "",
+        "description": "",
+        "codeCommune": "",
+        "image": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 100,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.6133362899999497,
+                    35.69986501500006
+                ]
+            },
+            "properties": {
+                        "name": "",
+        "classe": "",
+        "Population": "",
+        "densitePostal": "",
+        "NombreGuichetsExistant": "",
+        "NombreGuichetsTenus": "",
+        "NombreVisuTotal": "",
+        "NombreVisuFrontOffice": "",
+        "NombreGAB": "",
+        "adresse": "",
+        "description": "",
+        "codeCommune": "",
+        "image": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 101,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.35106110699996407,
+                    35.822251046000076
+                ]
+            },
+            "properties": {
+                        "name": "",
+        "classe": "",
+        "Population": "",
+        "densitePostal": "",
+        "NombreGuichetsExistant": "",
+        "NombreGuichetsTenus": "",
+        "NombreVisuTotal": "",
+        "NombreVisuFrontOffice": "",
+        "NombreGAB": "",
+        "adresse": "",
+        "description": "",
+        "codeCommune": "",
+        "image": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 102,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.304467218999946,
+                    35.80995970500004
+                ]
+            },
+            "properties": {
+                        "name": "",
+        "classe": "",
+        "Population": "",
+        "densitePostal": "",
+        "NombreGuichetsExistant": "",
+        "NombreGuichetsTenus": "",
+        "NombreVisuTotal": "",
+        "NombreVisuFrontOffice": "",
+        "NombreGAB": "",
+        "adresse": "",
+        "description": "",
+        "codeCommune": "",
+        "image": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 103,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.6607350799999381,
+                    35.65325217100008
+                ]
+            },
+            "properties": {
+                        "name": "",
+        "classe": "",
+        "Population": "",
+        "densitePostal": "",
+        "NombreGuichetsExistant": "",
+        "NombreGuichetsTenus": "",
+        "NombreVisuTotal": "",
+        "NombreVisuFrontOffice": "",
+        "NombreGAB": "",
+        "adresse": "",
+        "description": "",
+        "codeCommune": "",
+        "image": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 104,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.5385516379999444,
+                    35.526002633000076
+                ]
+            },
+            "properties": {
+                        "name": "",
+        "classe": "",
+        "Population": "",
+        "densitePostal": "",
+        "NombreGuichetsExistant": "",
+        "NombreGuichetsTenus": "",
+        "NombreVisuTotal": "",
+        "NombreVisuFrontOffice": "",
+        "NombreGAB": "",
+        "adresse": "",
+        "description": "",
+        "codeCommune": "",
+        "image": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 105,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.33254510299997264,
+                    35.849383561000025
+                ]
+            },
+            "properties": {
+                        "name": "",
+        "classe": "",
+        "Population": "",
+        "densitePostal": "",
+        "NombreGuichetsExistant": "",
+        "NombreGuichetsTenus": "",
+        "NombreVisuTotal": "",
+        "NombreVisuFrontOffice": "",
+        "NombreGAB": "",
+        "adresse": "",
+        "description": "",
+        "codeCommune": "",
+        "image": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 106,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.33254510299997264,
+                    35.849383561000025
+                ]
+            },
+            "properties": {
+                        "name": "",
+        "classe": "",
+        "Population": "",
+        "densitePostal": "",
+        "NombreGuichetsExistant": "",
+        "NombreGuichetsTenus": "",
+        "NombreVisuTotal": "",
+        "NombreVisuFrontOffice": "",
+        "NombreGAB": "",
+        "adresse": "",
+        "description": "",
+        "codeCommune": "",
+        "image": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 107,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.5794916059999764,
+                    35.70670139600003
+                ]
+            },
+            "properties": {
+                        "name": "",
+        "classe": "",
+        "Population": "",
+        "densitePostal": "",
+        "NombreGuichetsExistant": "",
+        "NombreGuichetsTenus": "",
+        "NombreVisuTotal": "",
+        "NombreVisuFrontOffice": "",
+        "NombreGAB": "",
+        "adresse": "",
+        "description": "",
+        "codeCommune": "",
+        "image": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 108,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.6017398169999524,
+                    35.684472871000025
+                ]
+            },
+            "properties": {
+                        "name": "",
+        "classe": "",
+        "Population": "",
+        "densitePostal": "",
+        "NombreGuichetsExistant": "",
+        "NombreGuichetsTenus": "",
+        "NombreVisuTotal": "",
+        "NombreVisuFrontOffice": "",
+        "NombreGAB": "",
+        "adresse": "",
+        "description": "",
+        "codeCommune": "",
+        "image": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 109,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.6253099979999774,
+                    35.707125199000075
+                ]
+            },
+            "properties": {
+                        "name": "",
+        "classe": "",
+        "Population": "",
+        "densitePostal": "",
+        "NombreGuichetsExistant": "",
+        "NombreGuichetsTenus": "",
+        "NombreVisuTotal": "",
+        "NombreVisuFrontOffice": "",
+        "NombreGAB": "",
+        "adresse": "",
+        "description": "",
+        "codeCommune": "",
+        "image": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 110,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.6457961839999484,
+                    35.678084332000026
+                ]
+            },
+            "properties": {
+                        "name": "",
+        "classe": "",
+        "Population": "",
+        "densitePostal": "",
+        "NombreGuichetsExistant": "",
+        "NombreGuichetsTenus": "",
+        "NombreVisuTotal": "",
+        "NombreVisuFrontOffice": "",
+        "NombreGAB": "",
+        "adresse": "",
+        "description": "",
+        "codeCommune": "",
+        "image": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 111,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.6075801989999263,
+                    35.62000126700008
+                ]
+            },
+            "properties": {
+                        "name": "",
+        "classe": "",
+        "Population": "",
+        "densitePostal": "",
+        "NombreGuichetsExistant": "",
+        "NombreGuichetsTenus": "",
+        "NombreVisuTotal": "",
+        "NombreVisuFrontOffice": "",
+        "NombreGAB": "",
+        "adresse": "",
+        "description": "",
+        "codeCommune": "",
+        "image": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 112,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.6140254549999327,
+                    35.63827138800008
+                ]
+            },
+            "properties": {
+                        "name": "",
+        "classe": "",
+        "Population": "",
+        "densitePostal": "",
+        "NombreGuichetsExistant": "",
+        "NombreGuichetsTenus": "",
+        "NombreVisuTotal": "",
+        "NombreVisuFrontOffice": "",
+        "NombreGAB": "",
+        "adresse": "",
+        "description": "",
+        "codeCommune": "",
+        "image": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 113,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.6532001379999315,
+                    35.70357672500006
+                ]
+            },
+            "properties": {
+                        "name": "",
+        "classe": "",
+        "Population": "",
+        "densitePostal": "",
+        "NombreGuichetsExistant": "",
+        "NombreGuichetsTenus": "",
+        "NombreVisuTotal": "",
+        "NombreVisuFrontOffice": "",
+        "NombreGAB": "",
+        "adresse": "",
+        "description": "",
+        "codeCommune": "",
+        "image": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 114,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.003033817999949,
+                    35.67094405100005
+                ]
+            },
+            "properties": {
+                        "name": "",
+        "classe": "",
+        "Population": "",
+        "densitePostal": "",
+        "NombreGuichetsExistant": "",
+        "NombreGuichetsTenus": "",
+        "NombreVisuTotal": "",
+        "NombreVisuFrontOffice": "",
+        "NombreGAB": "",
+        "adresse": "",
+        "description": "",
+        "codeCommune": "",
+        "image": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 115,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.6324294719999557,
+                    35.663901760000044
+                ]
+            },
+            "properties": {
+                        "name": "",
+        "classe": "",
+        "Population": "",
+        "densitePostal": "",
+        "NombreGuichetsExistant": "",
+        "NombreGuichetsTenus": "",
+        "NombreVisuTotal": "",
+        "NombreVisuFrontOffice": "",
+        "NombreGAB": "",
+        "adresse": "",
+        "description": "",
+        "codeCommune": "",
+        "image": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 116,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.5834129929999676,
+                    35.697916762000034
+                ]
+            },
+            "properties": {
+                        "name": "",
+        "classe": "",
+        "Population": "",
+        "densitePostal": "",
+        "NombreGuichetsExistant": "",
+        "NombreGuichetsTenus": "",
+        "NombreVisuTotal": "",
+        "NombreVisuFrontOffice": "",
+        "NombreGAB": "",
+        "adresse": "",
+        "description": "",
+        "codeCommune": "",
+        "image": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 117,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.6441669239999328,
+                    35.693125149000025
+                ]
+            },
+            "properties": {
+                        "name": "",
+        "classe": "",
+        "Population": "",
+        "densitePostal": "",
+        "NombreGuichetsExistant": "",
+        "NombreGuichetsTenus": "",
+        "NombreVisuTotal": "",
+        "NombreVisuFrontOffice": "",
+        "NombreGAB": "",
+        "adresse": "",
+        "description": "",
+        "codeCommune": "",
+        "image": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 118,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.5408572919999415,
+                    35.720410737000066
+                ]
+            },
+            "properties": {
+                        "name": "",
+        "classe": "",
+        "Population": "",
+        "densitePostal": "",
+        "NombreGuichetsExistant": "",
+        "NombreGuichetsTenus": "",
+        "NombreVisuTotal": "",
+        "NombreVisuFrontOffice": "",
+        "NombreGAB": "",
+        "adresse": "",
+        "description": "",
+        "codeCommune": "",
+        "image": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 119,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.6744136919999733,
+                    35.68050370700007
+                ]
+            },
+            "properties": {
+                        "name": "",
+        "classe": "",
+        "Population": "",
+        "densitePostal": "",
+        "NombreGuichetsExistant": "",
+        "NombreGuichetsTenus": "",
+        "NombreVisuTotal": "",
+        "NombreVisuFrontOffice": "",
+        "NombreGAB": "",
+        "adresse": "",
+        "description": "",
+        "codeCommune": "",
+        "image": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 120,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.6250199949999455,
+                    35.64365104700005
+                ]
+            },
+            "properties": {
+                        "name": "",
+        "classe": "",
+        "Population": "",
+        "densitePostal": "",
+        "NombreGuichetsExistant": "",
+        "NombreGuichetsTenus": "",
+        "NombreVisuTotal": "",
+        "NombreVisuFrontOffice": "",
+        "NombreGAB": "",
+        "adresse": "",
+        "description": "",
+        "codeCommune": "",
+        "image": ""
+            }
+        }
+    ]
+}

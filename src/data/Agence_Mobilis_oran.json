@@ -1,0 +1,139 @@
+{
+    "type": "FeatureCollection",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "EPSG:4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "id": 1,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.6498328169999468,
+                    35.67634220700006
+                ]
+            },
+            "properties": {
+                   "name": null,
+                "Adresse": null,
+                "Capacite": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 2,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.6450813809999545,
+                    35.70282769100004
+                ]
+            },
+            "properties": {
+                   "name": null,
+                "Adresse": null,
+                "Capacite": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 3,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.6154679779999697,
+                    35.69733129400004
+                ]
+            },
+            "properties": {
+                   "name": null,
+                "Adresse": null,
+                "Capacite": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 4,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.6069007699999247,
+                    35.620120034000024
+                ]
+            },
+            "properties": {
+                   "name": null,
+                "Adresse": null,
+                "Capacite": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 5,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.6168174289999797,
+                    35.65474881800003
+                ]
+            },
+            "properties": {
+                   "name": null,
+                "Adresse": null,
+                "Capacite": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 6,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.7708281239999337,
+                    35.74794855600004
+                ]
+            },
+            "properties": {
+                   "name": null,
+                "Adresse": null,
+                "Capacite": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 7,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.3116245679999565,
+                    35.85486099900004
+                ]
+            },
+            "properties": {
+                   "name": null,
+                "Adresse": null,
+                "Capacite": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 8,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.5374869779999472,
+                    35.744178548000036
+                ]
+            },
+            "properties": {
+                   "name": null,
+                "Adresse": null,
+                "Capacite": null
+            }
+        }
+    ]
+}

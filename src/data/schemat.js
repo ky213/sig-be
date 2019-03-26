@@ -51,7 +51,7 @@ module.exports =
     },
     lte: {
       "name": "lte",
-      "topo": "Polygon",
+      "topo": "Point",
       "properties": {
         "name": "String",
         "capacite": "Number",
@@ -85,6 +85,104 @@ module.exports =
         "description": "String",
         "codeCommune": "String",
         "image": "String"
+      },
+      "type": "String"
+    }
+    ,
+    mobilis: {
+      "name": "mobilis",
+      "topo": "Point",
+      "properties": {
+        "name": "String",
+        "capacite": "Number",
+        "adresse": "String",
+        "description": "String",
+        "codeCommune": "String",
+        "image": "String"
+      },
+      "type": "String"
+    }
+    ,
+    actel: {
+      "name": "actel",
+      "topo": "Point",
+      "properties": {
+        "name": "String"
+      },
+      "type": "String"
+    }
+    ,
+    agence_djezzy: {
+      "name": "agence_djezzy",
+      "topo": "Point",
+      "properties": {
+        "name": "String",
+        "Adresse": "String",
+        "Capacite": "Number"
+      },
+      "type": "String"
+    }
+    ,
+    agence_mobilis: {
+      "name": "agence_mobilis",
+      "topo": "Point",
+      "properties": {
+        "name": "String",
+        "Adresse": "String",
+        "Capacite": "Number"
+      },
+      "type": "String"
+    }
+    ,
+    agence_ooredoo: {
+      "name": "agence_ooredoo",
+      "topo": "Point",
+      "properties": {
+        "name": "String",
+        "Adresse": "String",
+        "Capacite": "Number"
+      },
+      "type": "String"
+    },
+    ats: {
+      "name": "ats",
+      "topo": "Point",
+      "properties": {
+        "name": "String",
+        "adresse": "String",
+        "description": "String",
+        "codeCommune": "String",
+      },
+      "type": "String"
+    }
+    ,
+    complexe_telecom: {
+      "name": "complexe_telecom",
+      "topo": "Point",
+      "properties": {
+        "name": "String",
+        "type": "String",
+        "codeCommune": "String",
+      },
+      "type": "String"
+    }
+    ,
+    dw_pttn: {
+      "name": "dw_pttn",
+      "topo": "Point",
+      "properties": {
+        "name": "String",
+        "codeCommune": "String",
+      },
+      "type": "String"
+    }
+    ,
+    station_atterissement: {
+      "name": "station_atterissement",
+      "topo": "Point",
+      "properties": {
+        "name": "String",
+        "codeCommune": "String",
       },
       "type": "String"
     }

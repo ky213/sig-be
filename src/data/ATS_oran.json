@@ -1,0 +1,29 @@
+{
+    "type": "FeatureCollection",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "EPSG:4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "id": 1,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.6508863869999573,
+                    35.683724469000026
+                ]
+            },
+            "properties": {
+                "name": "",
+                "adresse": "",
+                "description": "",
+                "codeCommune": "",
+                "image": ""
+            }
+        }
+    ]
+}
