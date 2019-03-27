@@ -1,0 +1,11 @@
+stages:
+	- build-backend-master
+build-backend-master:
+	satge : build-backend-master
+	before_script:
+	script:
+		- env
+		- docker build -t ci/backend:alpha .
+		- docker run --name backend -p 3001:3001 -d --rm --link mongo:db ci/backend:alpha
+	only :
+		- master

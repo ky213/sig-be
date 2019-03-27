@@ -11,7 +11,7 @@ const app = express();
 
 // connection to db
 mongoose
-  .connect("mongodb://localhost:27017/sig-eadn")
+  .connect("mongodb://db:27017/sig-eadn")
   .then(db => console.log("db connected"))
   .catch(err => console.log(err));
 
