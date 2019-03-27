@@ -2,7 +2,6 @@ stages:
 	- build-backend-master
 build-backend-master:
 	satge : build-backend-master
-	before_script:
 	script:
 		- env
 		- docker build -t ci/backend:alpha .
