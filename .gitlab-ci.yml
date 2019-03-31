@@ -1,11 +1,15 @@
---- 
-build-backend-master: 
-  only: 
-    - master
-  script: 
-    - env
-    - "docker build -t ci/backend:alpha ."
-    - "docker run --name backendalpha -p 3000:3000 -d --rm --link mongo:db ci/backend:alpha"
-  stage: build-backend-master
-stages: 
-  - build-backend-master
+stop-container:
+ script: 
+   - "docker stop $(docker inspect -f {{.Id}} backendalpha)"
+build-images:
+ only: 
+   - master
+ script: 
+   - "docker build -t ci/backend:alpha ."
+ when: always
+run-container:
+ only :
+   - master
+ script:
+   - "docker run --name backendalpha -p 3000:3000 -d --rm --link mongo:db ci/backend:alpha"
+ when: always
