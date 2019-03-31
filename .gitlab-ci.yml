@@ -1,11 +1,18 @@
 stop-container:
  script: 
    - "docker stop $(docker inspect -f {{.Id}} backendalpha)"
+   - "docker stop $(docker inspect -f {{.Id}} mongo)"
 build-images:
  only: 
    - master
  script: 
    - "docker build -t ci/backend:alpha ."
+ when: always
+run-db:
+ only :
+   - master
+ script:
+   - "docker run -v  --name mongo -p 27017:27017 --rm -d mongo"
  when: always
 run-container:
  only :
