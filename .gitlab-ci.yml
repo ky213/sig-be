@@ -12,7 +12,7 @@ run-db:
  only :
    - master
  script:
-   - "docker run -v  --name mongo -p 27017:27017 --rm -d mongo"
+   - "docker run  --name mongo -p 27017:27017 --rm -d mongo"
  when: always
 run-container:
  only :
