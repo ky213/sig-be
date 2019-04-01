@@ -26,6 +26,6 @@ else
 fi
 
 echo "Lunching mongo container.... "
-docker run  --name --rm mongo -p 27017:27017 --rm -d mongo
+docker run  --name mongo --rm -p 27017:27017 --rm -d mongo
 echo "Building backend alpha docker images .... "
 docker build -t ci/backend:alpha . && docker run --name $"client" -p 3000:3000 -d --rm --link mongo:db ci/backend:alpha
