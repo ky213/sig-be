@@ -1,15 +1,7 @@
-stop-container:
- script: 
-   - "docker stop $(docker inspect -f {{.Id}} backendalpha)"
 build-images:
+ stage: "build"
  only: 
    - master
  script: 
-   - "docker build -t ci/backend:alpha ."
- when: always
-run-container:
- only :
-   - master
- script:
-   - "docker run --name backendalpha -p 3000:3000 -d --rm --link mongo:db ci/backend:alpha"
- when: always
+   - chmod +x deploy.sh
+   - client=backendalpha ./deploy.sh
