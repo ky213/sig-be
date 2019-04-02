@@ -29,31 +29,32 @@ const RestSchemas = require("./routes/RestSchemas");
 const RestCollections = require("./routes/RestCollections");
 const RestSearchCollections = require("./routes/RestSearchCollections");
 
+const RestUpload = require("./routes/RestUpload");
 // settings
 app.set("port", process.env.PORT || 3000);
 
 app.use(express.json());
 
 // routes
-app.use("/", RestDjezzyRoutes);
-app.use("/", RestAlgeriePoste);
-app.use("/", RestOoredoo);
-app.use("/", RestLTE);
-app.use("/", RestMSAN);
-app.use("/", RestLFO);
+app.use("/sig-backend", RestDjezzyRoutes);
+app.use("/sig-backend", RestAlgeriePoste);
+app.use("/sig-backend", RestOoredoo);
+app.use("/sig-backend", RestLTE);
+app.use("/sig-backend", RestMSAN);
+app.use("/sig-backend", RestLFO);
 
-app.use("/", RestSchemas);
-app.use("/", RestCollections);
-app.use("/", RestSearchCollections);
+app.use("/sig-backend", RestSchemas);
+app.use("/sig-backend", RestCollections);
+app.use("/sig-backend", RestSearchCollections);
 
-
+app.use("/sig-backend", RestUpload);
 
 app.listen(app.get("port"), () => {
   console.log(`server on port ${app.get("port")}`);
 });
 
 //fileToDb();
-fileToDb_inOne();
+// fileToDb_inOne();
 
-const csvFileToDb = require('./methode/csvFileToDb');
+const csvFileToDb = require("./methode/csvFileToDb");
 // csvFileToDb();
