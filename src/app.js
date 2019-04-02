@@ -54,7 +54,7 @@ app.listen(app.get("port"), () => {
 });
 
 //fileToDb();
-// fileToDb_inOne();
+fileToDb_inOne();
 
 const csvFileToDb = require("./methode/csvFileToDb");
 // csvFileToDb();
